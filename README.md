@@ -1,5 +1,5 @@
 # Mst. Shafiatun Nur Shimu 
-### Aspiring Data Analyst | Python | SQL | Machine Learning | Data Security
+### Aspiring Data Analyst | Python | SQL | Machine Learning | Cryptography
 
 <!-- The links below are now corrected with your actual URLs -->
 <a href="https://linkedin.com/in/mst-shafiatun-nur-shimu-7974572b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

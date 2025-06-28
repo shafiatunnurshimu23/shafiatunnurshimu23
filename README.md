@@ -10,9 +10,9 @@
 
 ### 👋 About Me
 
-I'm a final-year Computer Science & Engineering student at KUET (**Merit Position: 9th/121**) with a passion for turning complex data into actionable insights. 
+I'm a final-year Computer Science & Engineering student at KUET with a passion for turning complex data into actionable insights. 
 
-While my academic research is rooted in **Cryptography and Blockchain**, my project work is focused on the practical application of **Data Analysis and Machine Learning**. I excel at using **Python** for in-depth statistical analysis and building predictive models, and I am highly proficient in **SQL** for extracting and manipulating data from relational databases. I am actively seeking a Data Analyst role where I can apply my analytical skills to solve real-world business problems.
+While my academic research is rooted in **Cryptography**, my project work is focused on the practical application of **Data Analysis and Machine Learning**.
 
 ---
 

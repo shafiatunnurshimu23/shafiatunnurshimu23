@@ -10,11 +10,7 @@
 
 ### 👋 About Me
 
-I'm a final-year Computer Science & Engineering student at KUET with a passion for turning complex data into actionable insights. 
-
-While my academic research is rooted in **Cryptography**, my project work is focused on the practical application of **Data Analysis and Machine Learning**.
-
----
+I completed my B.Sc. in Computer Science and Engineering with a CGPA of 3.79. Currently, I am working as a Lecturer at Southeast University. I am passionate about teaching, research, and continuous learning in the field of computer science.
 
 ### 🛠️ My Data Analysis Toolkit
 

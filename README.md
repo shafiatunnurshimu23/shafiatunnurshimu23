@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 
-I completed my B.Sc. in Computer Science and Engineering with a CGPA of 3.79. Currently, I am working as a Lecturer at Southeast University. I am passionate about teaching, research, and continuous learning in the field of computer science.
+I completed my B.Sc. in Computer Science and Engineering with a CGPA of 3.79. Currently, I am working as a Lecturer at Uttara University. At the same times, I'm working as an adjunct lecturer in the department of CSE at Southeast University. I am passionate about teaching, research, and continuous learning in the field of computer science.
 
 ### 🛠️ My Data Analysis Toolkit
 
